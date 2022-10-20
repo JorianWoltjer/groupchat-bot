@@ -1,0 +1,15 @@
+[package]
+name = "groupchat-bot"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+azalea = "0.2"
+azalea-auth = "0.2"
+uuid = "1.2"
+parking_lot = "0.12"
+tokio = "1.21"
+anyhow = "1.0"
+azalea-protocol = "0.2"
