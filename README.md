@@ -10,8 +10,8 @@ Admins of the bot can also add/list/remove people from the group, to keep it dyn
 To run the bot, simply clone the repository and use the `--release` flag for the most optimized build:
 
 ```Shell
-$ git clone https://github.com/JorianWoltjer/groupchat-bot.git && cd groupchat-bot
-$ cargo run --release
+git clone https://github.com/JorianWoltjer/groupchat-bot.git && cd groupchat-bot
+cargo run --release
 ```
 
 ## Settings
